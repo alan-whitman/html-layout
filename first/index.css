@@ -1,0 +1,21 @@
+body    {
+    background-color: lightgray;
+}
+.headboard  {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(70, 70, 70);
+}
+.main   {
+    width: 70%;
+    height: 800px;
+    background-color: rgb(240, 240, 240);
+    margin: 0px auto;
+}
+.footer {
+    width: 70%;
+    height: 100px;
+    background-color: rgb(70, 70, 70);
+    margin: 0px auto;
+
+}
